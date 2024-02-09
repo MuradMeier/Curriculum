@@ -7,28 +7,28 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\WindowAccount.xaml.cs">
+    <Compile Update="View\WindowDiscipline.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowAgreement.xaml.cs">
+    <Compile Update="View\WindowChair.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowBank.xaml.cs">
+    <Compile Update="View\WindowCurriculum.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowNewAccount.xaml.cs">
+    <Compile Update="View\WindowNewDiscipline.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowNewAgreement.xaml.cs">
+    <Compile Update="View\WindowNewChair.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowNewBank.xaml.cs">
+    <Compile Update="View\WindowNewCurriculum.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowNewTypeAccount.xaml.cs">
+    <Compile Update="View\WindowNewFaculty.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\WindowTypeAccount.xaml.cs">
+    <Compile Update="View\WindowFaculty.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -36,28 +36,28 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowAccount.xaml">
+    <Page Update="View\WindowDiscipline.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowAgreement.xaml">
+    <Page Update="View\WindowChair.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowBank.xaml">
+    <Page Update="View\WindowCurriculum.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowNewAccount.xaml">
+    <Page Update="View\WindowNewDiscipline.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowNewAgreement.xaml">
+    <Page Update="View\WindowNewChair.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowNewBank.xaml">
+    <Page Update="View\WindowNewCurriculum.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowNewTypeAccount.xaml">
+    <Page Update="View\WindowNewFaculty.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\WindowTypeAccount.xaml">
+    <Page Update="View\WindowFaculty.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -8,10 +8,10 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Menu>
-            <MenuItem x:Name="Bank" Header="Банки" Click="Bank_OnClick"></MenuItem>
-            <MenuItem x:Name="Account" Header="Счета" Click="Account_OnClick"></MenuItem>
-            <MenuItem x:Name="TypeAccount" Header="Типы счетов" Click="TypeAccount_OnClick"></MenuItem>
-            <MenuItem x:Name="Agreement" Header="Договоры" Click="Agreement_OnClick"></MenuItem>
+            <MenuItem x:Name="Bank" Header="Учебные планы" Click="Bank_OnClick"></MenuItem>
+            <MenuItem x:Name="Account" Header="Дисциплины" Click="Account_OnClick"></MenuItem>
+            <MenuItem x:Name="TypeAccount" Header="Факультеты" Click="TypeAccount_OnClick"></MenuItem>
+            <MenuItem x:Name="Agreement" Header="Кафедры" Click="Agreement_OnClick"></MenuItem>
         </Menu>
     </Grid>
 </Window>

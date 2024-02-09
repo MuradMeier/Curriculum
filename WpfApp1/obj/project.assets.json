@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murad\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\murad\\MyFirstWPFApp\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\Users\\murad\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectPath": "C:\\Users\\murad\\MyFirstWPFApp\\WpfApp1\\WpfApp1.csproj",
       "packagesPath": "C:\\Users\\murad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murad\\source\\repos\\WpfApp1\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Users\\murad\\MyFirstWPFApp\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\murad\\AppData\\Roaming\\NuGet\\NuGet.Config",

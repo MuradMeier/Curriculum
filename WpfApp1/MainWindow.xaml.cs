@@ -18,7 +18,7 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
-        internal static AccountViewModel vmAccount;
+        internal static DisciplineViewModel vmAccount;
 
         public MainWindow()
         {
@@ -27,22 +27,22 @@ namespace WpfApp1
         public static int IdAccount { get; set; }
         private void Account_OnClick(object sender, RoutedEventArgs e)
         {
-            WindowAccount wAccount = new WindowAccount();
+            WindowDiscipline wAccount = new WindowDiscipline();
             wAccount.Show();
         }
         private void Agreement_OnClick(object sender, RoutedEventArgs e)
         {
-            WindowAgreement wAgreement = new WindowAgreement();
+            WindowChair wAgreement = new WindowChair();
             wAgreement.Show();
         }
         private void Bank_OnClick(object sender, RoutedEventArgs e)
         {
-            WindowBank wBank = new WindowBank();
+            WindowCurriculum wBank = new WindowCurriculum();
             wBank.Show();
         }
         private void TypeAccount_OnClick(object sender, RoutedEventArgs e)
         {
-            WindowTypeAccount wTypeAccount = new WindowTypeAccount();
+            WindowFaculty wTypeAccount = new WindowFaculty();
             wTypeAccount.Show();
         }
     }
